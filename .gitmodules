@@ -1,0 +1,6 @@
+[submodule "wageningen/themes/alpha-church"]
+	path = wageningen/themes/alpha-church
+	url = https://github.com/funkydan2/alpha-church.git
+[submodule "wageningen/themes/meghna-hugo"]
+	path = wageningen/themes/meghna-hugo
+	url = https://github.com/themefisher/meghna-hugo.git

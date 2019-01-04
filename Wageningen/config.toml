@@ -1,4 +1,76 @@
-baseURL = "http://example.org/"
+baseURL = "https://home.bokhorst.info/wageningen"
 languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "ananke"
+title = "Rotaract Wageningen"
+theme = "meghna-hugo"
+
+# Menu
+[menu]
+    [[menu.nav]]
+    name = "About Us"
+    URL = "about"
+    weight = 2
+
+    [[menu.nav]]
+    name = "Contact"
+    URL = "contact-us"
+    weight = 3
+
+# Site params
+[params]
+home= "Home"
+logo = "images/logo.png"
+#gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBI14J_PNWVd-m0gnUBkjmhoQyNyd7nllA"
+custom_css = ["css/custom.css"]
+
+    # Banner Section
+    [params.banner]
+    enable = true
+    bgImage = "images/slider/hero-area.jpg"
+    icon = "tf-ion-play"
+    heading = "Rotaract Wageningen"
+    content= "Nog een mooie ondertitel verzinnen....."
+    btn = true
+    btnText="Learn more"
+    btnURL="#about"
+
+    # call to action
+    [params.cta]
+    enable = false
+    title = "Great Design & Incredible Features"
+    content = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+    btnURL = "#"
+    btnText = "Start a project with us"
+
+    # counter
+    [params.counter]
+    enable = true
+    bgImage = "images/backgrounds/bg-1.jpg"
+        [[params.counter.counterItem]]
+        title = "Rotaract clubs"
+        icon = "tf-ion-android-happy"
+        count = "49"
+
+        [[params.counter.counterItem]]
+        title = "Projects"
+        icon = "tf-ion-archive"
+        count = "565"
+
+        [[params.counter.counterItem]]
+        title = "Positive feedback"
+        icon = "tf-ion-thumbsup"
+        count = "95"
+
+        [[params.counter.counterItem]]
+        title = "Members"
+        icon = "tf-ion-coffee"
+        count = "2500"
+
+    # footer
+    [params.footer]
+        copyright = "Themefisher Team & Team Panda"
+        #copyrightURL = "http://www.themefisher.com"
+
+        # social Icons
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-facebook"
+        url = "https://www.facebook.com/RotaractNederland"
