@@ -3,15 +3,17 @@ heading : About
 headingSpan : Us
 aboutItem :
 - icon : tf-tools
-  title : We're Creative
+  title : Maatschapelijke service
   content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
 
-- icon : tf-strategy
-  title : We're Professional
+- icon : tf-streetsign
+  title : Leadership
   content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
 
-- icon : tf-anchor2
-  title : We're Genius
+- icon : tf-puzzle
+  title : Personal Development
   content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
 
-#  {{< youtube 78JxMmQxU_A>}}
+- icon : tf-ion-earth
+  title : International Service
+  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.

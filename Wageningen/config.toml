@@ -47,12 +47,12 @@ custom_css = ["css/custom.css"]
     bgImage = "images/backgrounds/bg-1.jpg"
         [[params.counter.counterItem]]
         title = "Rotaract clubs"
-        icon = "tf-ion-android-happy"
+        icon = "tf-ion-ios-home"
         count = "49"
 
         [[params.counter.counterItem]]
         title = "Projects"
-        icon = "tf-ion-archive"
+        icon = "tf-tools-2"
         count = "565"
 
         [[params.counter.counterItem]]
@@ -62,15 +62,19 @@ custom_css = ["css/custom.css"]
 
         [[params.counter.counterItem]]
         title = "Members"
-        icon = "tf-ion-coffee"
+        icon = "tf-ion-android-people"
         count = "2500"
 
     # footer
     [params.footer]
-        copyright = "Themefisher Team & Team Panda"
-        #copyrightURL = "http://www.themefisher.com"
+        copyright = "Team Panda"
+        # copyrightURL = "http://www.themefisher.com"
 
         # social Icons
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-facebook"
         url = "https://www.facebook.com/RotaractNederland"
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-ios-world"
+        url = "https://rotaract.nl"
