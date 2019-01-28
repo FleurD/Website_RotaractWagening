@@ -1,7 +1,7 @@
 ---
 title: "Santa Run: Rotaract Rivierenland"
 date: 2018-09-12T12:52:36+06:00
-image: images/blog/santa_run.png
+image: images/blog/santa_run.jpg
 author: JMB
 ---
 

@@ -2,7 +2,7 @@
 title: "Twin project Timisora (Roemenie): Rotaract Utrecht"
 date: 2018-09-12T14:39:16+06:00
 author: JMB
-image: images/blog/twin.png
+image: images/blog/twin.jpg
 ---
 
 
