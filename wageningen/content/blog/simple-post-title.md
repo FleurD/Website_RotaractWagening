@@ -1,18 +1,12 @@
 ---
-title: "Simple Post Title"
+title: "Twin project Timisora (Roemenie): Rotaract Utrecht"
 date: 2018-09-12T14:39:16+06:00
-author: Somrat
-image: images/blog/blog-post-2.jpg
+author: JMB
+image: images/blog/twin.png
 ---
 
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+Over the past year, Rotaract Utrecht has entered into a partnership with Rotaract Timisoara Cosmopolitan (Romania) in the form of a twin project. Rotaract Utrecht has raised money by organizing a very successful wine tasting. As a result, a total of two sports days were organized for orphans in Timisoara, of which the first sports day took place on 1 June. After quite a few Skype sessions between both clubs, it was in October: a part of our club has traveled to Timisoara. We would help with the second sports day for children from orphanages. Once there, there turned out to be a referendum in Romania, so it was not possible for the orphanages to let the children come to the sports field. In consultation, it was decided to organize the sports day two weeks later, but to travel together to the orphanages to give the children an unforgettable day. Together we played different games. At the end of the afternoon, the children were given something to eat and a well-filled goodie bag as a gift (including school supplies). Rotaract Utrecht and Rotaract Timisoara Cosmopolitan have then evaluated the day while enjoying a bite and a drink and some Romanian culture sniffed. All in all a very successful and inspiring weekend!
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
 
-> Design is not just what it looks like and feels like. Design is how it works.
-
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
-
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
-
+For more information [Click here](http://www.rotaract-utrecht.nl/2018/12/twin-project-timisoara-roemenie/)

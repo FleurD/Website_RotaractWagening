@@ -1,16 +1,11 @@
 ---
-title: "Simple Image Post"
+title: "Santa Run: Rotaract Rivierenland"
 date: 2018-09-12T12:52:36+06:00
-image: images/blog/blog-post-1.jpg
-author: Jamica Jock
+image: images/blog/santa_run.png
+author: JMB
 ---
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+The Santa Run is a 3 km long fun run for the whole family. All participants walk dressed as Santa Claus a simple and enjoyable course. The relatively short course makes the run very suitable for both young and old, but also for people in wheelchairs, parents with prams or owners with their dogs. The proceeds of the Santa Run 2018 go to Stichting Help Elkaar in Geldermalsen. A local goal that works with heart and soul for people who have virtually nothing to spend. These people can often just pay for their plate of food, but have no money for new clothes or an outing. At Stichting Help Elkaar Geldermalsen they can shop for free to make their lives a little more human. In addition, they organize numerous activities for young and old and emphasize the value of social contact.
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
 
-> Design is not just what it looks like and feels like. Design is how it works.
-
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
-
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+For more information [Click here](https://rivierenland.rotarysantarun.nl/)

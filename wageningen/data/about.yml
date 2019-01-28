@@ -1,19 +1,19 @@
 enable : true
 heading : About
-headingSpan : Us
+headingSpan : Rotaract
 aboutItem :
 - icon : tf-tools
   title : Maatschapelijke service
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  content : Rotaract Clubs are happy to help society and to achieve this in various ways. Every local club selects projects that it wants to support. This can vary from environmental protection to helping the less fortunate. For example by donating money or organizing the project.
 
 - icon : tf-streetsign
   title : Leadership
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  content : Rotaract makes leaders and leaders make strong clubs with an effective program. Rotaract Clubs organize communicative seminars and seminars with public speakers.
 
 - icon : tf-puzzle
   title : Personal Development
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  content : Rotaract Clubs help their members make the most informed choices through marketing and management seminars, conferences on business ethics, professional mediation and career planning.
 
 - icon : tf-ion-earth
   title : International Service
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  content : Because Rotaracters want to learn more about other cultures and have their share in promoting world peace and understanding, they undertake an International Service project every year. In addition, Rotaracter can participate in international Rotaract events, such as the EUCO, international RYLA or REM.
