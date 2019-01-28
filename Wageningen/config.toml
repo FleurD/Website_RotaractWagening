@@ -27,7 +27,8 @@ custom_css = ["css/custom.css"]
     enable = true
     bgImage = "images/slider/wageningen2.jpg"
     icon = "tf-ion-play"
-    heading = "Rotaract Wageningen, 17 Febuary 2019!"
+    heading = "Rotaract Wageningen"
+    subheading = "17 Febuary 2019!"
     content= "Feel good, Do good."
     btn = true
     btnText="Learn more"
@@ -56,9 +57,9 @@ custom_css = ["css/custom.css"]
         count = "565"
 
         [[params.counter.counterItem]]
-        title = "Positive feedback"
+        title = "Districten"
         icon = "tf-ion-thumbsup"
-        count = "95"
+        count = "7"
 
         [[params.counter.counterItem]]
         title = "Members"
