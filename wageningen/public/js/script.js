@@ -5,7 +5,7 @@ jQuery(function ($) {
 	/*	Page Preloader
 	/* ========================================================================= */
 
-	// Preloader js    
+	// Preloader js
 	$(window).on('load', function () {
 		$('#preloader').fadeOut(700);
 	});
@@ -104,10 +104,10 @@ jQuery(function ($) {
 		where VARIABLE is the variable we are checking (like name, email),
 		length is a JavaScript function to get the number of characters.
 		And as you can see if the num of characters is 0 we set the error
-		variable to true and show the name_error div with the fadeIn effect. 
+		variable to true and show the name_error div with the fadeIn effect.
 		if it's not 0 then we fadeOut the div( that's if the div is shown and
-		the error is fixed it fadesOut. 
-		
+		the error is fixed it fadesOut.
+
 		The only difference from these checks is the email checking, we have
 		email.indexOf('@') which checks if there is @ in the email input field.
 		This JavaScript function will return -1 if no occurrence have been found.*/
@@ -163,6 +163,14 @@ jQuery(function ($) {
 				}
 			});
 		}
+	});
+
+	$('#SubmitButton').click(function () {
+		var mail_to_link = 'mailto:' + "info@rotaract.nl" + '?subject=' + "Rotaract Wageningen Info" +
+			'&body=Thank you! %0D%0A%0D%0A Please don\'t modify anything below this line %0D%0A----- %0D%0A'+ answers;
+		window.location.href = mail_to_link;
+
+
 	});
 
 });

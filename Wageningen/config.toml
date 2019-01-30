@@ -1,4 +1,4 @@
-baseURL = "https://home.bokhorst.info/wageningen"
+baseURL = "http://rotaractwageningen.nl"
 languageCode = "en-us"
 title = "Rotaract Wageningen"
 theme = "meghna-hugo"

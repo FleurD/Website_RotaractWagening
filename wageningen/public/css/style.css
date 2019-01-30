@@ -275,6 +275,7 @@ a:hover {
   letter-spacing: 1px;
   padding: 10px 35px;
   text-transform: uppercase;
+  margin-bottom: 25px
 }
 
 .btn-main:hover {
@@ -883,7 +884,7 @@ a:hover {
 
 .con-info i,
 .con-info span {
-  float: left;
+
 }
 
 .con-info span {

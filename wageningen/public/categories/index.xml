@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Rotaract Wageningen</title>
-    <link>https://home.bokhorst.info/wageningen/categories/</link>
+    <link>http://rotaractwageningen.nl/categories/</link>
     <description>Recent content in Categories on Rotaract Wageningen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://home.bokhorst.info/wageningen/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rotaractwageningen.nl/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
